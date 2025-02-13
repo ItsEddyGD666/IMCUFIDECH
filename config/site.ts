@@ -1,62 +1,62 @@
 export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
-  name: "Next.js + HeroUI",
-  description: "Make beautiful websites regardless of your design experience.",
+  name: "IMCUFIDECH",
+  description: "Instituto Municipal de Cultura Física y Deporte de Chimalhuacán",
   navItems: [
     {
-      label: "Home",
+      label: "Inicio",
       href: "/",
     },
     {
-      label: "Docs",
-      href: "/docs",
+      label: "Historia",
+      href: "/historia",
     },
     {
-      label: "Pricing",
-      href: "/pricing",
+      label: "Oferta Deportiva",
+      href: "/oferta",
     },
     {
-      label: "Blog",
-      href: "/blog",
+      label: "Espacios Deportivos",
+      href: "/espacios",
     },
     {
-      label: "About",
-      href: "/about",
+      label: "Becas",
+      href: "/becas",
+    },
+    {
+      label: "Mujer",
+      href: "/mujer",
+    },
+    {
+      label: "Inicio de Sesion",
+      href: "/login",
     },
   ],
   navMenuItems: [
     {
-      label: "Profile",
-      href: "/profile",
+      label: "Inicio",
+      href: "/",
     },
     {
-      label: "Dashboard",
-      href: "/dashboard",
+      label: "Historia",
+      href: "/historia",
     },
     {
-      label: "Projects",
-      href: "/projects",
+      label: "Oferta Deportiva",
+      href: "/oferta",
     },
     {
-      label: "Team",
-      href: "/team",
+      label: "Espacios Deportivos",
+      href: "/espacios",
     },
     {
-      label: "Calendar",
-      href: "/calendar",
+      label: "Becas",
+      href: "/becas",
     },
     {
-      label: "Settings",
-      href: "/settings",
-    },
-    {
-      label: "Help & Feedback",
-      href: "/help-feedback",
-    },
-    {
-      label: "Logout",
-      href: "/logout",
+      label: "Mujer",
+      href: "/mujer",
     },
   ],
   links: {

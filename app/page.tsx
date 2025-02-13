@@ -1,56 +1,62 @@
 import { Link } from "@heroui/link";
-import { Snippet } from "@heroui/snippet";
-import { Code } from "@heroui/code";
-import { button as buttonStyles } from "@heroui/theme";
-
-import { siteConfig } from "@/config/site";
 import { title, subtitle } from "@/components/primitives";
-import { GithubIcon } from "@/components/icons";
+import Image from "next/image";
+import { MotionTransition } from "@/components/MotionTransition";
+import { Overview } from "@/components/overview";
+import { Contact } from "@/components/contact";
+import { Dependencias } from "@/components/dependencias";
 
 export default function Home() {
   return (
-    <section className="flex flex-col items-center justify-center gap-4 py-8 md:py-10">
+    <div className="flex flex-col items-center justify-center gap-4 py-8 md:py-10">
       <div className="inline-block max-w-xl text-center justify-center">
-        <span className={title()}>Make&nbsp;</span>
-        <span className={title({ color: "violet" })}>beautiful&nbsp;</span>
-        <br />
-        <span className={title()}>
-          websites regardless of your design experience.
-        </span>
-        <div className={subtitle({ class: "mt-4" })}>
-          Beautiful, fast and modern React UI library.
-        </div>
+        <h1>
+          <span className={title()}>
+            Instituto Municipal de Cultura Física y Deporte de{" "}
+          </span>
+          <span className={title({ color: "pink" })}>Chimalhuacán</span>
+        </h1>
       </div>
-
       <div className="flex gap-3">
         <Link
           isExternal
-          className={buttonStyles({
-            color: "primary",
-            radius: "full",
-            variant: "shadow",
-          })}
-          href={siteConfig.links.docs}
+          className="bg-gradient-to-tr from-[#e581b3] to-[#611532] text-white shadow-lg rounded-full py-2 px-5"
         >
-          Documentation
+          Portal Oficial
         </Link>
         <Link
           isExternal
-          className={buttonStyles({ variant: "bordered", radius: "full" })}
-          href={siteConfig.links.github}
+          className="text-black border-2 border-gray-300 py-2 px-5 rounded-full"
         >
-          <GithubIcon size={20} />
-          GitHub
+          Conoce más
         </Link>
       </div>
-
       <div className="mt-8">
-        <Snippet hideCopyButton hideSymbol variant="bordered">
-          <span>
-            Get started by editing <Code color="primary">app/page.tsx</Code>
-          </span>
-        </Snippet>
+        <MotionTransition>
+          <Image
+            src="/assets/svg/index-img.svg"
+            width={400}
+            height={1}
+            alt="Familia y deporte"
+          />
+        </MotionTransition>
       </div>
-    </section>
+      <div className="text-gray-500 text-center">
+        <p>
+          El Instituto Municipal de Cultura Física y Deporte de Chimalhuacán
+          (IMCUFIDECH) es un organismo público descentralizado, sujeto de
+          derechos y obligaciones, al que se le otorgo la autonomía necesaria
+          para asegurar el cumplimiento del deber del municipio de promover el
+          deporte y la cultura física.
+        </p>
+      </div>
+      <div>
+        <Overview />
+        <Contact />
+        <div className="container mx-auto max-w-7xl pt-16 px-6 flex-grow">
+          <Dependencias />
+        </div>
+      </div>
+    </div>
   );
 }
