@@ -38,12 +38,12 @@ export default function EspaciosPage() {
             src="/assets/svg/runner.svg"
             alt="runner"
             width={400}
-            height={1}
+            height={1}   	
           />
         </MotionTransition>
       </section>
       <section className="py-24">
-        <Oferta />        
+        <Oferta />
       </section>
     </div>
   );

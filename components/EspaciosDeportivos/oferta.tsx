@@ -72,7 +72,7 @@ export default function Oferta() {
             ariaLabel="Zoom Area"
           >
             <img
-              src="https://lh4.googleusercontent.com/sQpeHOV1Nr7NpA657HyMa77kRq9bGrxqC-Ffy4U-4rIqTSAkjaC__vZh1vxr5sEgHT2rCzMpzhQgJ9Yhmbd-szbtLQJnemaDsgJwMtwycrB_iVW43AX67jwE2ginNJT3xA=w1280"
+              src="https://lh3.googleusercontent.com/VduaiMZY7crOBJtxVtJ78jzo6cpOKkhKcEeJyUjidzeqtkEN0ZgZrfEN58r7KRzci_iffJaQcH10U5tNl5nxx8zuQxrbooFANKFt40orRF-nuxP1gbo-Ax7wKwfoQTKuwg=w1280"
               alt="image placeholder"
               width={500}
               height={500}
@@ -97,7 +97,7 @@ export default function Oferta() {
             ariaLabel="Zoom Area"
           >
             <img
-              src="https://lh6.googleusercontent.com/O7H2ZjZD6zlrxX9tfBUo0KDT7lrh9Jpk8JI8fL78nNUiHYf9g7iAbf3Yb9EiHnGC9lmlonRcaf0nCVpPSKTKPLkgSfOfAXTiNDIfuT9EJVQcUR9PJzhRfnuNgaxrNTBbdg=w1280"
+              src="https://lh3.googleusercontent.com/VduaiMZY7crOBJtxVtJ78jzo6cpOKkhKcEeJyUjidzeqtkEN0ZgZrfEN58r7KRzci_iffJaQcH10U5tNl5nxx8zuQxrbooFANKFt40orRF-nuxP1gbo-Ax7wKwfoQTKuwg=w1280"
               alt="image placeholder"
               width={500}
               height={500}
@@ -122,7 +122,7 @@ export default function Oferta() {
             ariaLabel="Zoom Area"
           >
             <img
-              src="https://lh3.googleusercontent.com/e1WM55WPD7r8Md2S2fjDsGe5cb8YxQd6nO49c-bjzlTSQm2kCywKzsmMZifE75o4dRxvGGKqXXGYuAbED0Fy_e7E7qyxOIkcQ_Oz9xwtWBk6HyaFeld77PScUjx8DkSmCA=w1280"
+              src="https://lh3.googleusercontent.com/VduaiMZY7crOBJtxVtJ78jzo6cpOKkhKcEeJyUjidzeqtkEN0ZgZrfEN58r7KRzci_iffJaQcH10U5tNl5nxx8zuQxrbooFANKFt40orRF-nuxP1gbo-Ax7wKwfoQTKuwg=w1280"
               alt="image placeholder"
               width={500}
               height={500}
@@ -147,7 +147,7 @@ export default function Oferta() {
             ariaLabel="Zoom Area"
           >
             <img
-              src="https://lh4.googleusercontent.com/UEGcAEmYHQbbzQNaRb9mdT9ivInxoA0teo8rZB7DNqFHkeMpI0Q6ZhrZ6EsNumDCGlX4zHxnjsm5gBjGfCPjUs8ubO7ZBl9DpWah1eXR4HT1GcoW0vUdoGkZBgLv71Zp=w1280"
+              src="https://lh3.googleusercontent.com/VduaiMZY7crOBJtxVtJ78jzo6cpOKkhKcEeJyUjidzeqtkEN0ZgZrfEN58r7KRzci_iffJaQcH10U5tNl5nxx8zuQxrbooFANKFt40orRF-nuxP1gbo-Ax7wKwfoQTKuwg=w1280"
               alt="image placeholder"
               width={500}
               height={500}
