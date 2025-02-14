@@ -47,7 +47,7 @@ export default function Oferta() {
             ariaLabel="Zoom Area"
           >
             <img
-              src="https://lh3.googleusercontent.com/VduaiMZY7crOBJtxVtJ78jzo6cpOKkhKcEeJyUjidzeqtkEN0ZgZrfEN58r7KRzci_iffJaQcH10U5tNl5nxx8zuQxrbooFANKFt40orRF-nuxP1gbo-Ax7wKwfoQTKuwg=w1280"
+              src="/assets/img/atletismo.jpg"
               alt="image placeholder"
               width={500}
               height={500}
@@ -72,7 +72,7 @@ export default function Oferta() {
             ariaLabel="Zoom Area"
           >
             <img
-              src="https://lh3.googleusercontent.com/VduaiMZY7crOBJtxVtJ78jzo6cpOKkhKcEeJyUjidzeqtkEN0ZgZrfEN58r7KRzci_iffJaQcH10U5tNl5nxx8zuQxrbooFANKFt40orRF-nuxP1gbo-Ax7wKwfoQTKuwg=w1280"
+              src="/assets/img/atletismo.jpg"
               alt="image placeholder"
               width={500}
               height={500}
@@ -97,7 +97,7 @@ export default function Oferta() {
             ariaLabel="Zoom Area"
           >
             <img
-              src="https://lh3.googleusercontent.com/VduaiMZY7crOBJtxVtJ78jzo6cpOKkhKcEeJyUjidzeqtkEN0ZgZrfEN58r7KRzci_iffJaQcH10U5tNl5nxx8zuQxrbooFANKFt40orRF-nuxP1gbo-Ax7wKwfoQTKuwg=w1280"
+              src="/assets/img/atletismo.jpg"
               alt="image placeholder"
               width={500}
               height={500}
@@ -122,7 +122,7 @@ export default function Oferta() {
             ariaLabel="Zoom Area"
           >
             <img
-              src="https://lh3.googleusercontent.com/VduaiMZY7crOBJtxVtJ78jzo6cpOKkhKcEeJyUjidzeqtkEN0ZgZrfEN58r7KRzci_iffJaQcH10U5tNl5nxx8zuQxrbooFANKFt40orRF-nuxP1gbo-Ax7wKwfoQTKuwg=w1280"
+              src="/assets/img/atletismo.jpg"
               alt="image placeholder"
               width={500}
               height={500}
@@ -147,7 +147,7 @@ export default function Oferta() {
             ariaLabel="Zoom Area"
           >
             <img
-              src="https://lh3.googleusercontent.com/VduaiMZY7crOBJtxVtJ78jzo6cpOKkhKcEeJyUjidzeqtkEN0ZgZrfEN58r7KRzci_iffJaQcH10U5tNl5nxx8zuQxrbooFANKFt40orRF-nuxP1gbo-Ax7wKwfoQTKuwg=w1280"
+              src="/assets/img/atletismo.jpg"
               alt="image placeholder"
               width={500}
               height={500}
